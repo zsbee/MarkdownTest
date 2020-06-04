@@ -1,3 +1,5 @@
+"\n<img src=\"https://render.githubusercontent.com/render/math?math=\\begin{aligned}\\dot{x} = \\sigma(y-x) \\\\\n\\dot{y} = \\rho x - y - xz \\\\\n\\dot{z} = -\\beta z + xy\\end{aligned}>\n"
+
 # Markdown Test #4
 
 <img src="https://render.githubusercontent.com/render/math?math=\begin{aligned}\dot{x} = \sigma(y-x)\\\dot{y} = \rho x - y - xz\\\dot{z} = -\beta z + xy\end{aligned}">
@@ -5,6 +7,8 @@
 <img src="https://render.githubusercontent.com/render/math?math=\begin{aligned}\dot{x} = \sigma(y-x)\end{aligned}">
 
 <img src="https://render.githubusercontent.com/render/math?math=(a_1 + a_2)^2 = a_1^2 + 2a_1a_2 + a_2^2">
+
+
 
 Simple examples:
 
