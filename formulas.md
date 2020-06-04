@@ -12,7 +12,7 @@
 
 <img src="https://render.githubusercontent.com/render/math?math=\dot{x} = \sigma(y-x)\\dot{y} = \rho x - y - xz \\dot{z} = -\beta z + xy">
 
-<img src="https://render.githubusercontent.com/render/math?math=\dot{x} = \sigma(y-x)\\\\\ \dot{y} = \rho x - y - xz \\\\\\ dot{z} = -\beta z + xy">
+<img src="https://render.githubusercontent.com/render/math?math=\dot{x} = \sigma(y-x)\\\\\ \\dot{y} = \rho x - y - xz \\\\\\ dot{z} = -\beta z + xy">
 
 
 
