@@ -36,6 +36,7 @@ Simple examples:
 \end{gather}">
 
 Use the *gather* or *display-lines* environments to center multiple equations:
+
 Cross product:
 
 <img src="https://render.githubusercontent.com/render/math?math=\vec \bf V_1 \times \vec \bf V_2 =  \begin{vmatrix}
