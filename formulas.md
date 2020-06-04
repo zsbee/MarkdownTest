@@ -1,6 +1,16 @@
 # Markdown Test #4
 
 
+<img src="https://render.githubusercontent.com/render/math?math=\begin{aligned}\nabla \cdot \vec{\bf E}  = \frac {\rho} {\varepsilon_0}\\\nabla \cdot \vec{\bf B} = 0 \\\nabla \times \vec{\bf E} = - \frac{\partial\vec{\bf B}}{\partial t} \\
+\nabla \times \vec{\bf B} = \mu_0\vec{\bf J} + \mu_0\varepsilon_0 \frac{\partial\vec{\bf E}}{\partial t}\end{aligned}">
+
+
+<img src="https://render.githubusercontent.com/render/math?math=\begin{eqaligned}\nabla \cdot \vec{\bf E}  = \frac {\rho} {\varepsilon_0}\\\nabla \cdot \vec{\bf B} = 0 \\\nabla \times \vec{\bf E} = - \frac{\partial\vec{\bf B}}{\partial t} \\
+\nabla \times \vec{\bf B} = \mu_0\vec{\bf J} + \mu_0\varepsilon_0 \frac{\partial\vec{\bf E}}{\partial t}\end{eqaligned}">
+
+<img src="https://render.githubusercontent.com/render/math?math=\begin{eqalign}\nabla \cdot \vec{\bf E}  = \frac {\rho} {\varepsilon_0}\\\nabla \cdot \vec{\bf B} = 0 \\\nabla \times \vec{\bf E} = - \frac{\partial\vec{\bf B}}{\partial t} \\
+\nabla \times \vec{\bf B} = \mu_0\vec{\bf J} + \mu_0\varepsilon_0 \frac{\partial\vec{\bf E}}{\partial t}\end{eqalign}">
+
 
 <img src="https://render.githubusercontent.com/render/math?math=\begin{aligned}\dot{x} = \sigma(y-x) \\\dot{y} = \rho x - y - xz \\\dot{z} = -\beta z + xy\end{aligned}">
 
