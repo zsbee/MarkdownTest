@@ -1,4 +1,4 @@
-"\n<img src=\"https://render.githubusercontent.com/render/math?math=\\begin{aligned}\\dot{x} = \\sigma(y-x) \\\\\n\\dot{y} = \\rho x - y - xz \\\\\n\\dot{z} = -\\beta z + xy\\end{aligned}>\n"
+<img src=\"https://render.githubusercontent.com/render/math?math=\\begin{aligned}\\dot{x} = \\sigma(y-x) \\\\\n\\dot{y} = \\rho x - y - xz \\\\\n\\dot{z} = -\\beta z + xy\\end{aligned}>
 
 # Markdown Test #4
 
