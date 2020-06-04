@@ -1,10 +1,13 @@
 # Markdown Test #4
 
+<img src="https://render.githubusercontent.com/render/math?math=\begin{aligned}\dot{x} = \sigma(y-x)\\dot{y} = \rho x - y - xz\\dot{z} = -\beta z + xy\end{aligned}">
+
+
 <img src="https://render.githubusercontent.com/render/math?math=$$\dot{x} = \sigma(y-x)\\dot{y} = \rho x - y - xz\\dot{z} = -\beta z + xy$$">
 
 <img src="https://render.githubusercontent.com/render/math?math=$$\begin{align*}\dot{x} = \sigma(y-x)\\dot{y} = \rho x - y - xz\\dot{z} = -\beta z + xy\end{align*}$$">
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{aligned}\dot{x} = \sigma(y-x)\\dot{y} = \rho x - y - xz\\dot{z} = -\beta z + xy\end{aligned}">
+
 
 
 <img src="https://render.githubusercontent.com/render/math?math=$$ \begin{align}\dot{x} = \sigma(y-x)\\dot{y} = \rho x - y - xz\\dot{z} = -\beta z + xy\end{align} $$">
