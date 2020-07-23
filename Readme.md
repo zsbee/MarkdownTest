@@ -1,3 +1,6 @@
+Testing with a horizontal line 4 chars
+
+----
 
 ![image](https://images.unsplash.com/photo-1590421958459-071ca4271af6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjQ5MDM0fQ)
 
